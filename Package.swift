@@ -17,7 +17,7 @@ let package = Package(
   dependencies: [
     .package(
       url: "https://github.com/layoutBox/FlexLayout",
-      .upToNextMajor(from: "1.3.0")
+      .upToNextMajor(from: "1.2.0")
     ),
     .package(
       url: "https://github.com/layoutBox/PinLayout",
